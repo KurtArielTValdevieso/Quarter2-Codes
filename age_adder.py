@@ -1,5 +1,4 @@
 age = int(input("Hi there! Please enter your age: "))
-
 while age <= 0:
     print()
     age = int(input("Enter your age (Must be a whole number): "))
