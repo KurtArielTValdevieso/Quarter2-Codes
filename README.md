@@ -1,3 +1,16 @@
 These are my codes.
 
-yea
+ok
+
+;-)
+
+So don't touch.
+
+
+Unless if you are a teacher.
+
+
+ok
+
+
+:-)
